@@ -1,0 +1,6 @@
+#忽略package-clok文件
+package-lock.json
+
+
+#忽略pages文件
+node_modules/
