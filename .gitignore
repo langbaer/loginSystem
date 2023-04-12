@@ -4,3 +4,6 @@ package-lock.json
 
 #忽略pages文件
 node_modules/
+
+#忽略router_handler文件
+router_handler
